@@ -1,17 +1,15 @@
 <!-- Mikael Lundkvist - GitHub Profile README -->
 
-<h1 align="center">👋 Hi there, I'm Mikael Lundkvist</h1>
-<h3 align="center">🎓 Soon-to-be graduate from the Teaching and Engineering Program at KTH</h3>
+<h1 align="center"> Hi there, I'm Mikael Lundkvist</h1>
+<h3 align="center"> Graduate from KTH and currently working as a math and programming teacher at Huddinge Gymnasium </h3>
 
 ---
 
 
-I am currently in my final year as a student at KTH in the program [Civilingenjör och lärare](https://www.kth.se/utbildning/civilingenjor/civing-larare/civilingenjor-och-larare-300-hp-1.4108), where I will earn degrees in both **Computer Science** and **Teaching**.  
+During my time as a student at KTH I studied the program [Civilingenjör och lärare](https://www.kth.se/utbildning/civilingenjor/civing-larare/civilingenjor-och-larare-300-hp-1.4108), where I earned degrees in both **Computer Science** and **Teaching**.  
 
 During my time at KTH, I have primarily worked with **Python**, **Java**, **JavaScript**, and **MySQL**.  
-I have also worked with languages such as **C**, **C++**, **Haskell**, and **Go**, and I have experience with **computer security**.  
-
-I’m currently looking for work opportunities in the **Stockholm area**, starting in **early 2026**.
+I have also worked with languages such as **C**, **C++**, **Haskell**, and **Go**, and I have experience with **computer security**.
 
 ---
 
@@ -32,4 +30,4 @@ I’m currently looking for work opportunities in the **Stockholm area**, starti
   </a>
 </p>
 
-⭐️ *Thanks for stopping by! Feel free to check out my repositories and projects.*
+*Thanks for stopping by! Feel free to check out my repositories and projects.*
