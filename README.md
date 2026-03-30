@@ -15,7 +15,7 @@ I have also worked with languages such as **C**, **C++**, **Haskell**, and **Go*
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moppe-xd&layout=compact&theme=tokyonight" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Moppe-xd&layout=compact" alt="Top languages" height="165" />
 </p>
 
 ---
